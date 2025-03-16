@@ -15,7 +15,7 @@ function AboutCard() {
             Avant cela, j’ai obtenu un baccalauréat général avec les spécialités Sciences Économiques et Sociales (SES) et Mathématiques, ce qui m’a permis de développer une double compétence analytique et technique.
             <br />
             <br />
-            Passionnée par les réseaux, la cybersécurité et l’informatique en général, je souhaite poursuivre mes études en intégrant une <span className="purple">licence professionnelle en réseaux et cybersécurité en alternance</span>. À plus long terme, je vise un <span className="purple">master spécialisé en cybersécurité</span>, afin de me perfectionner et d’acquérir une expertise pointue dans ce domaine crucial.
+            Passionnée par les réseaux, la cybersécurité et l’informatique en général, je souhaite poursuivre mes études en intégrant une <span className="purple">licence ou un bachelor en systèmes et réseaux en alternance</span>. À plus long terme, je vise un <span className="purple">master spécialisé en cybersécurité</span>, afin de me perfectionner et d’acquérir une expertise pointue dans ce domaine crucial.
             <br />
             <br />
             Consciente de l'importance des certifications dans le domaine de l'informatqiue et de la cybersécurité, je prévois d'obtenir plusieurs certifications reconnues, telles que la <span className="purple">CCNA (Cisco Certified Network Associate) </span> pour approfondir mes compétences réseaux, ainsi que des certifications en cybersécurité comme <span className="purple">CEH (Certified Ehtical Hacker)</span>. Ces certifications renforceront mon expertise et me permettront d'accéder à des opportunités professionnelles plus avancées.

@@ -42,7 +42,18 @@ function About() {
               paddingTop: "60px",
             }}
           >
-            <h1 style={{ fontSize: "2.4em", fontWeight: "bold" }}>
+          </Col>
+        </Row>
+
+        {/* Section Outils */}
+        <h1 className="project-heading">
+          <strong className="purple">Outils</strong> que je maîtrise
+          
+        </h1>
+        <Toolstack />
+        <br />
+                <br />
+        <h1 style={{ fontSize: "2.4em", fontWeight: "bold" }}>
               L'ANNÉE <strong className="purple">PROCHAINE</strong>
             </h1>
             <blockquote className="blockquote mb-0">
@@ -64,14 +75,6 @@ function About() {
                 <br />
               </p>
             </blockquote>
-          </Col>
-        </Row>
-
-        {/* Section Outils */}
-        <h1 className="project-heading">
-          <strong className="purple">Outils</strong> que je maîtrise
-        </h1>
-        <Toolstack />
       </Container>
     </Container>
   );
